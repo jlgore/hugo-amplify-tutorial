@@ -313,7 +313,9 @@ We can update our first post with more markdown as a challenge. When you are rea
 
 ## Task 3: Create a Github repo for your site
 
-10.) Create a brand new Github repo for your Hugo site.
+10.) Create a brand new Github repo for your Hugo site. Initalize your git repo in your directory:
+
+`git init`
 
 11.) Add your files to git to be tracked.
 
